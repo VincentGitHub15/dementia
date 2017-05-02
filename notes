@@ -1,6 +1,7 @@
 presentation:
 - talk about regular basic statistics in relation to the demogrpahic dementia data
-- explain NN and show it "thinking" with weights
+- explain NN and show it "thinking" with weights (animated)
 - talk about how we tested it with other datasets
+   - static diagram of dementia datasets
 - including the protein data from dementia patients
   - explain why this is relevant - proteins - RNA - genes
